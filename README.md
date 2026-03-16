@@ -2,7 +2,6 @@
 
 A comprehensive Claude skill for writing systematic literature reviews on music therapy and music-based interventions (MBIs). This skill provides structured workflows, templates, and guidelines for producing high-quality academic reviews in the field of music therapy research.
 
-<<<<<<< HEAD
 [中文文档](README_zh.md) | English
 
 ## Overview
