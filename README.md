@@ -328,7 +328,6 @@ Quarterly review cycle
 Version control and change log
 
 Example Output Structure
->>>>>>> e4a99f247ddfed30ce2b91a92da31b779d300b4f
 # [Title]: A Systematic Review of Evidence and Neural Mechanisms
 
 **Key Points**
